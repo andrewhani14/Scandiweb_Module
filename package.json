@@ -5,7 +5,7 @@
   "author": "Aleksandrs Rivkinds <ejnshtein@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@scandipwa/magento-scripts": "^1.15.6"
+    "@scandipwa/magento-scripts": "^2.0.3"
   },
   "scripts": {
     "start": "magento-scripts start",
