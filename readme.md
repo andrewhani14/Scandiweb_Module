@@ -4,10 +4,6 @@
 
 1. Clone repository
 
-    ```bash
-    git clone git@bitbucket.org:scandiweb/cma-sample-project.git
-    ```
-
 2. Install dependencies
 
     ```bash
