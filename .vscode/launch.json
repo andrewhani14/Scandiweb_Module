@@ -10,7 +10,7 @@
       "request": "launch",
       "port": 9003,
       "pathMappings": {
-        "/Users/sw/Projects/cma-sample-project": "${workspaceFolder}"
+        "/Users/andrew/Desktop/cma-sample-project": "${workspaceFolder}"
       }
     }
   ]

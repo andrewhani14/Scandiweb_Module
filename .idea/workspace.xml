@@ -8,7 +8,7 @@
     <servers>
       <server host="http://localhost" id="7e16e907-9ce3-4559-9d26-a30a5650d11f" name="create-magento-app" use_path_mappings="true">
         <path_mappings>
-          <mapping local-root="$PROJECT_DIR$" remote-root="/Users/sw/Projects/cma-sample-project"/>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/Users/andrew/Desktop/cma-sample-project"/>
         </path_mappings>
       </server>
     </servers>
@@ -36,11 +36,11 @@
   <component name="PsalmProjectConfiguration">
     <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER"/>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="local-cma-project:cma-sample-project-1666184386"/>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="local-cma-project:cma-sample-project-1679587639"/>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <interpreter name="local-cma-project:cma-sample-project-1666184386" composer="composer"/>
+      <interpreter name="local-cma-project:cma-sample-project-1679587639" composer="composer"/>
     </execution>
   </component>
 </project>
