@@ -104,6 +104,9 @@ class CreateProduct implements DataPatchInterface
     /**
      * Add new product
      */
+    /**
+     * @return void
+     */
     public function apply(): void
     {
         $this->appState->emulateAreaCode('adminhtml', [$this, 'execute']);
@@ -115,6 +118,9 @@ class CreateProduct implements DataPatchInterface
      * @throws LocalizedException
      * @throws NoSuchEntityException
      * @throws ValidationException
+     */
+    /**
+     * @return void
      */
     public function execute(): void
     {
