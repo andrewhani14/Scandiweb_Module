@@ -2,6 +2,8 @@
 
 namespace Scandiweb\ScandiwebTest\Setup\Patch\Data;
 
+declare(strict_types=1);
+
 use Magento\Catalog\Api\CategoryLinkManagementInterface;
 use Magento\Catalog\Api\Data\ProductInterfaceFactory;
 use Magento\Catalog\Api\ProductRepositoryInterface;
