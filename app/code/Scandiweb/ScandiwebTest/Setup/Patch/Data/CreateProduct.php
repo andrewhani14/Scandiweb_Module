@@ -1,8 +1,8 @@
 <?php
 
-namespace Scandiweb\ScandiwebTest\Setup\Patch\Data;
-
 declare(strict_types=1);
+
+namespace Scandiweb\ScandiwebTest\Setup\Patch\Data;
 
 use Magento\Catalog\Api\CategoryLinkManagementInterface;
 use Magento\Catalog\Api\Data\ProductInterfaceFactory;
