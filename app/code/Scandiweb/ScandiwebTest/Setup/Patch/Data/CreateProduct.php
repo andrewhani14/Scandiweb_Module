@@ -117,8 +117,6 @@ class CreateProduct implements DataPatchInterface
      * @throws LocalizedException
      * @throws NoSuchEntityException
      * @throws ValidationException
-     *
-     *
      * @return void
      */
     public function execute(): void
