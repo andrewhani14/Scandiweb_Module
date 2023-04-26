@@ -103,8 +103,7 @@ class CreateProduct implements DataPatchInterface
 
     /**
      * Add new product
-     */
-    /**
+     *
      * @return void
      */
     public function apply(): void
@@ -118,8 +117,8 @@ class CreateProduct implements DataPatchInterface
      * @throws LocalizedException
      * @throws NoSuchEntityException
      * @throws ValidationException
-     */
-    /**
+     *
+     *
      * @return void
      */
     public function execute(): void
